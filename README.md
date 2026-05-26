@@ -1,5 +1,9 @@
 # Visual Sequence Research — Selected Preview
 
+![status](https://img.shields.io/badge/status-research%20preview-6d3fd1)
+![type](https://img.shields.io/badge/type-public%20teaser-64748b)
+![claim](https://img.shields.io/badge/claim-no%20advantage%20asserted-9aa6b8)
+
 This repository contains selected visual previews from a **private research
 prototype** exploring **structure-aware visual sequences**.
 
@@ -40,6 +44,10 @@ These demos are early research previews. They are not a product, not a benchmark
 and not a state-of-the-art result.
 
 No advantage of any kind is asserted.
+
+## Portfolio
+
+Part of my research portfolio → [chen-quantum.github.io/projects](https://chen-quantum.github.io/projects)
 
 ## Contact
 
